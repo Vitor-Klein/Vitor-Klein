@@ -1,5 +1,6 @@
 # Vitor Klein
 
+um programador jovem,iniciante mas com muita sede de conhecimento e em busca de emprego kkkk
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@VitorKlein1-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/VitorKlein1)](https://twitter.com/VitorKlein11) 
