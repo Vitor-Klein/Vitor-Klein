@@ -1,7 +1,7 @@
 # Vitor Klein
 
-um programador jovem,iniciante mas com muita sede de conhecimento e em busca de emprego
-*tenho foco na stack Java Script(Node,ReactJS,React Native)
+Um programador jovem,iniciante mas com muita sede de conhecimento e em busca de emprego
+* Tenho foco na stack Java Script(Node,ReactJS,React Native)
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@VitorHKlein-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/VitorHKlein)](https://twitter.com/VitorHKlein) 
