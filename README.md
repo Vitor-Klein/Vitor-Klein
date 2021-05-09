@@ -22,7 +22,7 @@
 
 #### Sou um programador novo, estudando sempre para me aperfeiçoar na stack JS/TS, estou em busca do meu 1ºemprego na area de programação e atualmente faço curso tecnico em TI,ja fiz diversas NLW's e completei a ultima Semana Omnistack realizada pela Rocketseat, sigo meus estudos com os conteudos ponta de linha da Rocketseat e atualmente estou no caminho para completar o Bootcamp GoStack e é isso....
 
-### Links para contato e redes sociais estão logo acima do texto :)
+#### Links para contato e redes sociais estão logo acima do texto :)
 
 ### #NeverStopLearning <br>
 ### #juntosparaoproximonivel
