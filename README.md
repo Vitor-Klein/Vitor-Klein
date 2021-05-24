@@ -25,7 +25,8 @@
 #### Links para contato e redes sociais estão logo acima do texto :)
 
 ### #NeverStopLearning <br>
-### #juntosparaoproximonivel
+### #juntosparaoproximonivel <br>
+### #OPENTOWORK
 
 
 
