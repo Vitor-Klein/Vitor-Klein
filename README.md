@@ -21,7 +21,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Klein-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-klein/)](https://www.linkedin.com/in/vitor-klein/) 
 [![Gmail Badge](https://img.shields.io/badge/-vitorhklein2@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorhklein2@gmail.com)](mailto:vitorhklein2@gmail.com)
 
-#### Sou um programador novo, estudando sempre para me aperfeiçoar na stack JS/TS, atualmente trabalho para SWA em medianeira, de maneira remota e tambem faço curso tecnico em TI,ja fiz diversas NLW's e completei a ultima Semana Omnistack realizada pela Rocketseat, sigo meus estudos com os conteudos ponta de linha da Rocketseat e atualmente estou no caminho para completar o Bootcamp GoStack e é isso....
+#### Sou um programador novo, estudando sempre para me aperfeiçoar na stack JS/TS, atualmente trabalho para SWA em medianeira, de maneira remota e tambem faço ensino medio  tecnico em informatica,ja fiz diversas NLW's e completei a ultima Semana Omnistack realizada pela Rocketseat, sigo meus estudos com os conteudos ponta de linha da Rocketseat e atualmente estou no caminho para completar o Bootcamp GoStack e é isso....
 
 #### Links para contato e redes sociais estão logo acima do texto :)
 
