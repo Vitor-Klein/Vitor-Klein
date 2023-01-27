@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um programador novo, estudando sempre para me aperfeiçoar na stack JS/TS, atualmente trabalho para SWA em medianeira, de maneira remota e tambem faço ensino medio tecnico em informatica,ja fiz diversas NLW's e completei a ultima Semana Omnistack realizada pela Rocketseat, sigo meus estudos com os conteudos ponta de linha da Rocketseat e é isso....<br>Links para contato e redes sociais estão logo acima do texto :)<br>#NeverStopLearning<br>#juntosparaoproximonivel<br>#OPENTOWORK</p>
+<p align="left">Sou um programador novo, estudando sempre para me aperfeiçoar na stack JS/TS, sou formado em Técnico em informatica pelo Colegio Estadual João Manuel Mondrone de Medianeira PR,ja fiz diversas NLW's e completei a ultima Semana Omnistack realizada pela Rocketseat, sigo meus estudos com os conteudos ponta de linha da Rocketseat e é isso....<br>Links para contato e redes sociais estão logo acima do texto :)<br>#NeverStopLearning<br>#juntosparaoproximonivel<br>#OPENTOWORK</p>
 
 ###
 
