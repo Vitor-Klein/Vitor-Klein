@@ -54,7 +54,7 @@
 </div>
 
 ## Rocketseat Badges
-<div align="left">
+<div align-items-items="center">
   <div align="center">
     <img width="100" src="./MoonMission.svg">
     <h3>NLW Together</h3>
