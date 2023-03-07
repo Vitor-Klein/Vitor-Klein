@@ -55,6 +55,7 @@
 
 ## NLW Together Badges
   <img width="100" src="./MoonMission.svg">
+  <img width="100" src="./Capturar.PNG">
 
 ###
 
