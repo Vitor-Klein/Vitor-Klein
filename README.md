@@ -54,13 +54,15 @@
 </div>
 
 ## Rocketseat Badges
-<div align="center">
-  <img width="100" src="./MoonMission.svg">
-  <h3>NLW Together</h3>
-</div>
-<div align="center">
-  <img width="150" src="./Capturar.PNG">
-  <h3>Semana Omnistack 11</h3>
+<div align="left">
+  <div align="center">
+    <img width="100" src="./MoonMission.svg">
+    <h3>NLW Together</h3>
+  </div>
+  <div align="center">
+    <img width="150" src="./Capturar.PNG">
+    <h3>Semana Omnistack 11</h3>
+  </div>
 </div>
 
 ###
