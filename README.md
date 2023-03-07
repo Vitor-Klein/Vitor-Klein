@@ -45,9 +45,8 @@
    
 </div>
 
+## NLW Together Badge
   <div align="center">
-    ## NLW Together Badge
-
   <img width="100" src="./MoonMission.svg">
   </div>
 
