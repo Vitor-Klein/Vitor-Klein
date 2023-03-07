@@ -4,7 +4,10 @@
 
 <section align="center">
 
-<p align="left">Sou um programador dedicado, sempre em busca de aprimorar minhas habilidades na stack JS/TS. Possuo formação técnica em informática pelo Colégio Estadual João Manuel Mondrone de Medianeira, PR e já participei de diversas NLWs, incluindo a última Semana Omnistack promovida pela Rocketseat. Busco sempre me manter atualizado com os conteúdos de ponta da Rocketseat e de outras fontes confiáveis. Fique à vontade para entrar em contato ou me seguir nas redes sociais, cujos links estão disponíveis acima. Nunca paro de aprender e estou aberto a novas oportunidades de trabalho. #NeverStopLearning #juntosparaoproximonivel #OPENTOWORK
+👩🏻‍💻  Desenvolvedor JavaScript FullStack
+<br>
+ 💬 Ask me about ... HTML, CSS, JavaScript, ReactJS...
+  <br>
 
 <img src="https://komarev.com/ghpvc/?username=Vitor-Klein&label=PROFILE%20VIEWS&color=7C3AED&style=flat" alt="Vitor-Klein" /> 
 
