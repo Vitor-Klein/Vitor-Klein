@@ -56,7 +56,6 @@
 ## Rocketseat Badges
  <div align-items-items="center">
     <img width="100" src="./MoonMission.svg">
-    <br>
     <img width="150" src="./Capturar.PNG">
    </div>
 
