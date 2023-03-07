@@ -4,6 +4,8 @@
 
 <p align="left">Sou um programador dedicado, sempre em busca de aprimorar minhas habilidades na stack JS/TS. Possuo formação técnica em informática pelo Colégio Estadual João Manuel Mondrone de Medianeira, PR e já participei de diversas NLWs, incluindo a última Semana Omnistack promovida pela Rocketseat. Busco sempre me manter atualizado com os conteúdos de ponta da Rocketseat e de outras fontes confiáveis. Fique à vontade para entrar em contato ou me seguir nas redes sociais, cujos links estão disponíveis acima. Nunca paro de aprender e estou aberto a novas oportunidades de trabalho. #NeverStopLearning #juntosparaoproximonivel #OPENTOWORK
 
+<img src="https://komarev.com/ghpvc/?username=Vitor-Klein&label=PROFILE%20VIEWS&color=7C3AED&style=flat" alt="Vitor-Klein" /> 
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false&username=Vitor-Klein" height="150" alt="stats graph"  />
@@ -45,7 +47,7 @@
    
 </div>
 
-## NLW Together Badge
+## NLW Together Badges
   <div align="center">
   <img width="100" src="./MoonMission.svg">
   </div>
