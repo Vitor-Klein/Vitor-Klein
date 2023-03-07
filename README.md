@@ -13,7 +13,7 @@
 </div>
 
 ###
-
+## Principais Técnologias
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
@@ -29,6 +29,7 @@
 </div>
 
 ###
+## Principais Redes Sociais
 
 <div align="center">
   <a href="https://twitter.com/VitorHKlein" target="_blank">
