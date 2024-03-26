@@ -2,7 +2,7 @@
 
 ###
 <section align="center">
-<p align="center">👩🏻‍💻 Desenvolvedor JavaScript FullStack<br>💬 Ask me about ... HTML, CSS, JavaScript, ReactJS, NodeJS...</p>
+<p align="center">👩🏻‍💻 Desenvolvedor JavaScript FullStack<br>💬 Ask me about ... JavaScript,Typescript, ReactJS, NodeJS, NextJS, UX/UI</p>
 
 ###
 
