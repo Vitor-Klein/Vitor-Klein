@@ -1,67 +1,102 @@
-<h2 align="center">Hi 👋! My name is Vitor Klein and I'm a full stack dev, from Brazil</h2>
-
-###
-<section align="center">
-<p align="center">👩🏻‍💻 Desenvolvedor JavaScript FullStack<br>💬 Ask me about ... JavaScript,Typescript, ReactJS, NodeJS, NextJS, UX/UI</p>
-
-###
-
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=true&username=Vitor-Klein" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=omni&hide_border=true&username=Vitor-Klein" height="151" alt="languages graph"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:3B82F6&height=180&section=header&text=Vitor%20Klein&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Brasil%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=58&descSize=18" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Vitor+%F0%9F%91%8B;Desenvolvedor+Full+Stack+JavaScript;Apaixonado+por+UX%2FUI+e+boas+interfaces;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://vitor-klein.vercel.app"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vitor-klein/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vitorhklein2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </div>
 
-###
+---
 
-<h3 align="center">Tecnologias</h3>
+## 👨‍💻 Sobre mim
 
-###
+```js
+const vitor = {
+  nome: "Vitor Klein",
+  local: "Paraná, Brasil 🇧🇷",
+  formacao: "Ciência da Computação @ UTFPR",
+  cargo: "Desenvolvedor Full Stack",
+  stack: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "Flutter"],
+  interesses: ["UX/UI", "Interfaces bonitas e acessíveis", "Produtos que resolvem problemas reais"],
+  aberto_a: "Novos projetos, colaborações e boas conversas ☕",
+};
+```
+
+- 🔭 Construindo aplicações web e mobile do front ao back
+- 🎨 Unindo código e design para criar experiências que as pessoas gostam de usar
+- 🌱 Sempre estudando algo novo — no momento, aprofundando em arquitetura e IA aplicada
+- 💬 Me pergunte sobre **JavaScript, TypeScript, React, Next.js, Node.js e UX/UI**
+- ⚡ Curiosidade: acredito que todo bom software começa entendendo bem quem vai usá-lo
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+
+**Front-end & Mobile**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,flutter,dart" />
+
+**Back-end & Banco de dados**
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,firebase" />
+
+**Design & Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
+
 </div>
 
-###
+---
 
-###
+## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vitor-Klein&label=PROFILE%20VIEWS&color=7C3AED&style=flat" alt="Vitor-Klein" /> 
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vitor-Klein&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6&text_color=C9D1D9&locale=pt-br" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Klein&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&locale=pt-br" />
+
+<img src="https://streak-stats.demolab.com?user=Vitor-Klein&hide_border=true&background=0D1117&ring=7C3AED&fire=3B82F6&currStreakLabel=7C3AED&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&locale=pt_BR" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vitor-Klein&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=3B82F6&area=true&hide_border=true" />
+
 </div>
 
-###
+---
 
-## Principais Redes Sociais
+## 🚀 Projetos em destaque
 
+<!-- Troque "NOME-DO-REPO" pelos nomes dos seus repositórios públicos favoritos -->
 <div align="center">
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=vitorhklein2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+  <a href="https://github.com/Vitor-Klein/NOME-DO-REPO-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vitor-Klein&repo=NOME-DO-REPO-1&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6&text_color=C9D1D9" />
   </a>
-  <a href="https://www.linkedin.com/in/vitor-klein/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  <a href="https://github.com/Vitor-Klein/NOME-DO-REPO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vitor-Klein&repo=NOME-DO-REPO-2&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6&text_color=C9D1D9" />
   </a>
-  <a href="https://vitor-klein.vercel.app"><img src="https://img.shields.io/badge/portfolio-24292F?logo=data:image/png;base64,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&style=for-the-badge&logoColor=E4405F"></a>
-   
 </div>
 
-###
+---
 
- </section>
+## 🤝 Vamos conversar?
+
+Estou sempre aberto a trocar ideias, colaborar em projetos ou bater um papo sobre tecnologia e design.
+Se algo aqui chamou sua atenção, **me chama** — vai ser um prazer! 😄
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Vitor-Klein&label=Visitas%20no%20perfil&color=7C3AED&style=flat-square" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:7C3AED&height=100&section=footer" width="100%" />
+
+</div>
